@@ -1,0 +1,22 @@
+{
+	"password":"",
+	"data":{
+		"location_address":"北京市海淀区学院路街道中国地质大学(北京)",
+		"location_latitude":"39.594672",
+		"c17":"否",
+		"type":"YQSJCJ",
+		"c1":"37.2℃及以下",
+		"c2":"健康",
+		"c4":"否",
+		"c5":"否",
+		"c6":"否",
+		"c7":"否",
+		"c9":"否",
+		"xmqkb":{
+			"id":"4a4ce9d6725c1d4001725e38fbdb07cd"
+		},
+		"location_longitude":"116.34951"
+	},
+	"push_api":"https://sctapi.ftqq.com/api.send",
+	"username":""
+}

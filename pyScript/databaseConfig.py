@@ -1,0 +1,5 @@
+DB_URL = "localhost"
+DB_NAME = "CovReportAutoCommitDB"
+DB_USERNAME = "root"
+DB_PASSWORD = "1234"
+TABLE_NAME = "user"
