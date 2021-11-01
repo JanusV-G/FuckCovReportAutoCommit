@@ -11,13 +11,13 @@
 
 2. python部分的自动提交
 
-   本部分在EVAyo大佬的基础上进行修改
+   本部分在 hanrc97大佬 的基础上进行修改
 
    > 项目地址:
    >
-   > https://github.com/EVAyo/FucknCoVReport
+   > https://github.com/hanrc97/FucknCoVReport
 
-   
+
 
 JavaWeb仅仅是对用户进行管理
 
